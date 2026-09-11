@@ -2,7 +2,7 @@ import type { SocialLink } from "@/components/molecules/social-links";
 
 export const portfolio = {
   name: "Rifki Maulana",
-  siteUrl: "https://rmaul.vercel.app",
+  siteUrl: "https://me.rmaul.xyz",
   socials: [
     {
       platform: "instagram",
